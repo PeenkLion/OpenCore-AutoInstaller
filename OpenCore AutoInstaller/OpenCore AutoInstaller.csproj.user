@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="agree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FirstTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InstallsAndScripts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="one.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Support.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="three.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="two.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="agree.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
