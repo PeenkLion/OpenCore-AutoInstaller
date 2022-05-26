@@ -1,0 +1,54 @@
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.exe
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.deps.json
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.runtimeconfig.json
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\ref\OpenCore AutoInstaller.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.pdb
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\CSCore.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\NAudio.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\NAudio.Asio.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\NAudio.Core.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\NAudio.Midi.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\NAudio.Wasapi.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\NAudio.WinForms.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\NAudio.WinMM.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\SevenZip.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.CodeDom.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.Management.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.Private.ServiceModel.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.ServiceModel.Http.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.ServiceModel.NetTcp.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.ServiceModel.Primitives.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.ServiceModel.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.ServiceModel.Security.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.Text.Encodings.Web.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\System.Text.Json.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\VisioForge.Core.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\VisioForge.Libs.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\VisioForge.MediaFramework.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\VisioForge.Types.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\Microsoft.WindowsAPICodePack.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\win-x64\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.agree.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.FirstTime.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.InstallsAndScripts.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.Main.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.one.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.Properties.Resources.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.Support.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.three.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.two.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.Update.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore_AutoInstaller.Welcome.resources
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.AssemblyInfo.cs
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.csproj.CopyComplete
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\ref\OpenCore AutoInstaller.dll
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.pdb
+C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\obj\Release\net5.0-windows\win-x64\OpenCore AutoInstaller.genruntimeconfig.cache
