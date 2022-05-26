@@ -1,2 +1,0 @@
-C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\publish\OpenCore AutoInstaller.pdb
-C:\Users\ethan\source\repos\OpenCore AutoInstaller\OpenCore AutoInstaller\bin\Release\net5.0-windows\publish\OpenCore AutoInstaller.exe
