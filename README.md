@@ -13,3 +13,6 @@ DotNET 5.0: https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-deskt
 - WindowsAPICodePack-Shell
 
 ![](https://github.com/PeenkLion/OpenCore-AutoInstaller/blob/main/OpencoreAI.png)
+
+## Download:
+https://link-target.net/154530/opencore-autoinstaller
