@@ -4,6 +4,9 @@ OCAI is a tool that can help you with installing MacOS Hackintosh using OpenCore
 ## Prerequisites:
 DotNET 5.0: https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.5-windows-x64-installer
 
+## Download:
+https://link-target.net/154530/opencore-autoinstaller
+
 ## NuGet Packages (For self-builds):
 - CSCore
 - NAudio
@@ -13,6 +16,3 @@ DotNET 5.0: https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-deskt
 - WindowsAPICodePack-Shell
 
 ![](https://github.com/PeenkLion/OpenCore-AutoInstaller/blob/main/OpencoreAI.png)
-
-## Download:
-https://link-target.net/154530/opencore-autoinstaller
